@@ -7,4 +7,4 @@ and type `build.bat`, and you are done.
 
 if you are on linux don't use the batch file but just compile it yourself.
 
-(grabber only supports windows)
+(grabber only supports windows targets)
